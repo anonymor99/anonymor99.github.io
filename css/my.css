@@ -1,0 +1,9 @@
+/* Here is your custom css styles. */
+@font-face{
+    font-family: '极字经典楷体简繁';
+    src: url('../font/极字经典楷体简繁.ttf');
+}
+
+body{
+    font-family: '极字经典楷体简繁';
+}
